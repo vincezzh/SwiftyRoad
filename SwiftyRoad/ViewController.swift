@@ -27,9 +27,9 @@ class ViewController: UIViewController {
     var difficutly = 0.0
     var gameSpeed = 2.5
     
-    // iPhone 6 border
+    // iPhone 6p border
     var leftBorder = 58
-    var rightBorder = 258
+    var rightBorder = 298
     
     override func viewDidLoad() {
         super.viewDidLoad()
